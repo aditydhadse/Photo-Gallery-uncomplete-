@@ -1,0 +1,78 @@
+body {
+    text-align: center;
+}
+
+#img1 {
+    width: 350;
+    height: 263;
+}
+
+#img2 {
+    width: 350;
+    height: 263;
+}
+
+#img3 {
+    width: 350;
+    height: 263;
+}
+
+#img4 {
+    width: 350;
+    height: 263;
+}
+
+#img5 {
+    width: 350;
+    height: 263;
+}
+
+#img6 {
+    width: 350;
+    height: 263;
+}
+
+#img7 {
+    width: 350;
+    height: 263;
+}
+
+#img8 {
+    width: 350;
+    height: 263;
+}
+
+#Home {
+    background-color: lightsteelblue;
+}
+
+#img {
+    width: 1200;
+    height: 1000;
+}
+
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: aliceblue;
+}
+
+.container {
+    text-align: center;
+}
+
+#myCarousel {
+    background-color: lightblue;
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carsel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
